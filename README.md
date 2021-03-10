@@ -1,6 +1,4 @@
-# car-accidents
-Please cite the following papers if you use this dataset:
+# Covid Vaccines
+Population data originally came from US Census Bureau, but this was an edited and downloaded from Kaggle at https://www.kaggle.com/peretzcohen/us-vaccine-tracker
 
-Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
-
-Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
+Vaccine data was downloaded on 3/9/21 from https://covid.cdc.gov/covid-data-tracker/#vaccinations
